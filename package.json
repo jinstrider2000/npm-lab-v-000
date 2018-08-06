@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/jinstrider2000/npm-lab-v-000/issues"
   },
-  "homepage": "https://github.com/jinstrider2000/npm-lab-v-000#readme"
+  "homepage": "https://github.com/jinstrider2000/npm-lab-v-000#readme",
+  "dependencies": {
+    "learn-browser": "^0.1.17"
+  }
 }
